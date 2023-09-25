@@ -12,9 +12,18 @@
     "@types/node": "20.6.5",
     "@types/react": "18.2.22",
     "@types/react-dom": "18.2.7",
+    "isomorphic-dompurify": "^1.8.0",
+    "match-sorter": "^6.3.1",
     "next": "13.5.2",
+    "next-cookies": "^2.0.3",
+    "next-images": "^1.8.5",
     "react": "18.2.0",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-contenteditable": "^3.3.7",
     "react-dom": "18.2.0",
+    "sass": "^1.68.0",
+    "typeface-nunito-sans": "^1.1.13",
+    "typeface-roboto": "^1.1.13",
     "typescript": "5.2.2"
   }
 }
